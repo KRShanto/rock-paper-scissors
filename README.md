@@ -1,6 +1,8 @@
-# Rock Paper Scissors Game
+# Rock-Paper-Scissors Game
 
 A modern, interactive Rock Paper Scissors game built with React and Next.js.
+
+Here's the live link: [rock-paper-scissors-25.vercel.app](https://rock-paper-scissors-25.vercel.app)
 
 ## Description
 
@@ -8,9 +10,9 @@ This project is a web-based implementation of the classic Rock Paper Scissors ga
 
 ## Features
 
-- Interactive game play with rock, paper, and scissors choices
+- Interactive gameplay with rock, paper, and scissors choices
 - Animated selection and result display
-- Sound effects for win, lose, and tie outcomes
+- Sound effects for winning, losing, or tie outcomes
 - Real-time score tracking and win rate calculation
 - Responsive design for various screen sizes
 
@@ -19,26 +21,30 @@ This project is a web-based implementation of the classic Rock Paper Scissors ga
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   \`\`\`
-   git clone https://github.com/your-username/rock-paper-scissors.git
-   \`\`\`
+
+   ```bash
+   git clone https://github.com/KRShanto/rock-paper-scissors
+   ```
 
 2. Navigate to the project directory:
-   \`\`\`
+
+   ```bash
    cd rock-paper-scissors
-   \`\`\`
+   ```
 
 3. Install the dependencies:
-   \`\`\`
+
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 4. Start the development server:
-   \`\`\`
-   npm run dev
-   \`\`\`
 
-5. Open your browser and visit \`http://localhost:3000\`
+    ```bash
+   npm run dev
+   ```
+
+5. Open your browser and visit `http://localhost:3000`
 
 ## Usage
 
@@ -59,9 +65,8 @@ To run this project locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Feel free to submit a Pull Request.
 
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
